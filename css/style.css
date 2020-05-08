@@ -10,3 +10,15 @@
   position: relative;
   background-position: center;
 }
+
+#istanbul {
+  background-image: url(../img/istanbul.jpg);
+}
+
+#roma {
+  background-image: url(../img/roma.jpg);
+}
+
+#sydney {
+  background-image: url(../img/sydney.jpg);
+}
