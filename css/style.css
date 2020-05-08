@@ -3,3 +3,10 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+.photo {
+  background-size: cover;
+  height: 100vh;
+  position: relative;
+  background-position: center;
+}
