@@ -4,6 +4,8 @@
   box-sizing: border-box;
 }
 
+/* photo styling */
+
 .photo {
   background-size: cover;
   height: 100vh;
@@ -23,6 +25,8 @@
   background-image: url(../img/sydney.jpg);
 }
 
+/* title styling */
+
 .title {
   position: absolute;
   left: 50%;
@@ -33,6 +37,8 @@
   font-family: 'Dancing Script', cursive;
   text-shadow: 2px 2px grey;
 }
+
+/* layover */
 
 .layover {
   background-color: rgba(0, 0, 0, 0.3);
