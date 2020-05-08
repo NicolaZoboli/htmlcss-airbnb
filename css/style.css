@@ -34,7 +34,7 @@
   transform: translate(-50%, -50%);
   font-size: 60px;
   color: lightgrey;
-  font-family: 'Dancing Script', cursive;
+  font-family: 'Dancing Script', cursive, arial, helvetica, sans-serif;
   text-shadow: 2px 2px grey;
 }
 
